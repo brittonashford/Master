@@ -1,9 +1,8 @@
 import webbrowser
 
 class Movie():
-    ''' This class provides a way to store movie related information'''
-    
-    VALID_RATINGS = ["G", "PG", "PG-13", "R"]
+    ''' This class contains a constructor class that will be used in entertainment_center.py
+        and a show_trailer() function that will be used in fresh_tomatoes.py'''
     
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title

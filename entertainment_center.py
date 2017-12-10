@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+#below are six instances of the object Movie which is defined in media.py
 eraserhead = media.Movie("Eraserhead",
                          "A surreal tale of a man named Henry and his existential troubles",
                          "https://s3.amazonaws.com/criterion-production/shop_product_images/734-79885c85c59cb6da1aedfc1ac5b33197/CTA_1143_original.jpg",
@@ -31,8 +32,8 @@ metropolis = media.Movie("Metropolis",
                          "http://imgc.allpostersimages.com/img/posters/metropolis-german-movie-poster-1926_u-L-P99V9N0.jpg",
                          "https://youtu.be/on2H8Qt5fgA")
 
+#this array contains the Movie objects created above and is passed into the fresh_tomatoes.open_movies_page() function defined in fresh tomatoes.py
 movies = [eraserhead, nosferatu, dr_caligari, wild_strawberries, there_will_be_blood, metropolis]
-
 fresh_tomatoes.open_movies_page(movies)
 
                           
