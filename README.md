@@ -1,4 +1,4 @@
-## README for movie Trailer Website project
+## README for Movie Trailer Website project
 
 This README file will provide you with instructions to access my Movie Trailer Website project which was completed as part of the Full Stack Nano Degree.
 
