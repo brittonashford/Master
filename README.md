@@ -2,16 +2,15 @@
 
 This README file will provide you with instructions to access my Movie Trailer Website project which was completed as part of the Full Stack Nano Degree.
 
-## Accessing Code
+## Instructions
 
-To access the code needed to demonstrate the project's functionality, please clone or download the following files from [my GitHub repository](https://github.com/brittonashford/Master):
-- media.py
-- entertainment_center.py
-- fresh_tomatoes.py
-
-## Viewing Website
-
-To view my website, open and run entertainment_center.py on your computer. 
+1. clone or download the following files from [my GitHub repository](https://github.com/brittonashford/Master):
+    - media.py
+    - entertainment_center.py
+    - fresh_tomatoes.py
+2. Right-click on entertainment_center.py and select "Edit with IDLE".
+3. Press F5 to run the program.
+4. The website should open up in your browser.
 
 ## Website Content
 
